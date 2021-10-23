@@ -1,2 +1,2 @@
-# JMS-Description
-JMS用の説明文
+# Serverlist-Description
+JMSとmonocraft用の説明文
